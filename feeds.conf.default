@@ -2,4 +2,4 @@ src-git immortalwrt_core https://github.com/immortalwrt/immortalwrt.git;openwrt-
 src-git packages https://github.com/immortalwrt/packages.git;openwrt-24.10
 src-git luci https://github.com/immortalwrt/luci.git;openwrt-24.10
 src-git routing https://github.com/immortalwrt/routing.git;openwrt-24.10
-src-git routing https://github.com/immortalwrt/routing.git;openwrt-24.10
+
